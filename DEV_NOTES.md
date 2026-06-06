@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Addressed feedback from self code review
 - Bumped patch version
 - Added type hints to helper functions
+
+## 2026-06-06
+- Tidied up project structure
+- Investigated performance bottleneck, noted findings
