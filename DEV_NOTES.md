@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-06-06
 - Tidied up project structure
 - Investigated performance bottleneck, noted findings
+
+## 2026-06-13
+- Added inline documentation for core functions
+- Added basic retry logic for network requests
+- Added type hints to helper functions
