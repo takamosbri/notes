@@ -15,3 +15,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added inline documentation for core functions
 - Added basic retry logic for network requests
 - Added type hints to helper functions
+
+## 2026-06-13
+- Updated CI cache strategy
+- Added basic usage examples to README
+- Drafted initial implementation plan for v2
